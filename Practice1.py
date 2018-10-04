@@ -14,3 +14,8 @@ print(x)
 y = str(x)
 print(y)
 print(type(y))
+
+m = 6
+m/=3
+# m = m%3
+print(m)

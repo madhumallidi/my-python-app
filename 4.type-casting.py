@@ -19,3 +19,4 @@ print(type(m))
 
 n = str(2.5)
 print(n)
+print(type(n))
