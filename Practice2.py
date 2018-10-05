@@ -1,5 +1,5 @@
 i = 0
-j = 5
+j = 4
 for row in range(5):
     for col in range(5):
         if row == i and col == j:
@@ -9,5 +9,5 @@ for row in range(5):
         elif row == col:
             print("*", end="")
         else:
-            print(end= " ")
+            print(end=" ")
 print()
